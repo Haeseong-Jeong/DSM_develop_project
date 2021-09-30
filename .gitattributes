@@ -1,2 +1,4 @@
 DSM[[:space:]]project/** filter=lfs diff=lfs merge=lfs -text
 DSM/** filter=lfs diff=lfs merge=lfs -text
+DSM filter=lfs diff=lfs merge=lfs -text
+project/** filter=lfs diff=lfs merge=lfs -text
